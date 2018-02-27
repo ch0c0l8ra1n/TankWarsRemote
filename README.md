@@ -13,4 +13,4 @@ make
 Now launch the remote by ```./remote```
 
 Youtube Demonstration: 
-[[Demonstration Video](https://www.youtube.com/edit?o=U&video_id=-Mg_qvlVJJs)](https://www.youtube.com/edit?o=U&video_id=-Mg_qvlVJJs)
+[Demonstration Video](https://www.youtube.com/edit?o=U&video_id=-Mg_qvlVJJs)
